@@ -40,12 +40,12 @@ header {
 
 .banner-image {
   width: 224px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 5px auto;
 }
 
 .banner-content {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 0 auto;
   text-align: center;
   width: 998px;
