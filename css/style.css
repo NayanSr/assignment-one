@@ -70,8 +70,13 @@ header {
 
 main {
   max-width: 1140px;
-  background-color: aliceblue;
+
   margin: 0 auto;
+}
+
+.with-background-color {
+  background-color: #fafafb;
+  border-radius: 10px;
 }
 
 .why-web {
@@ -118,4 +123,28 @@ main {
 
 .btn-learn-more {
   padding: 8px 25px;
+}
+
+.inspiration {
+  text-align: center;
+}
+
+.inspiration h3 {
+  font-size: 30px;
+}
+.inspiration p {
+  margin: 15px 0;
+  font-size: 20px;
+  color: rgb(47, 47, 47);
+}
+
+.video {
+  width: 100%;
+  border: 1px solid rgb(150, 150, 150);
+  border-radius: 15px;
+}
+
+.video iframe {
+  margin: 25px 0;
+  border-radius: 15px;
 }
